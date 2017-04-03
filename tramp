@@ -1,0 +1,8 @@
+;; -*- emacs-lisp -*- <17/03/14 19:47:38 /Users/kawabata/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["ssh" "kawabata" "perican#22" nil nil]
+  nil)
+ (["ssh" "kawabata" "perican" nil nil]
+  nil))
